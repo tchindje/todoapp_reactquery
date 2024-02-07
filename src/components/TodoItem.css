@@ -1,0 +1,6 @@
+.todoItem {
+  margin: 2px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
